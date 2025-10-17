@@ -42,7 +42,19 @@ STEP 5:Include Necessary parameters in each functions.
 
 <img width="1524" height="930" alt="image" src="https://github.com/user-attachments/assets/0432830e-3295-4c7c-8ad0-035c08e9b6b2" />
 
-![Uploading image.png…]()
+<img width="1431" height="881" alt="image" src="https://github.com/user-attachments/assets/6b32b2b6-a954-4e0f-ba32-9aefd7e1d71b" />
+
+<img width="1418" height="885" alt="image" src="https://github.com/user-attachments/assets/2ed94d1e-ac0a-4015-bfe4-2dbf305defcd" />
+
+<img width="1445" height="650" alt="image" src="https://github.com/user-attachments/assets/a5e506c0-4577-4138-b55f-65987cfa123a" />
+
+<img width="1455" height="693" alt="image" src="https://github.com/user-attachments/assets/f2a35c5d-78c4-478e-bec8-2724b8655732" />
+
+<img width="1422" height="701" alt="image" src="https://github.com/user-attachments/assets/129626c3-8e2f-43a9-b041-6eeaebffbb2b" />
+
+<img width="1393" height="755" alt="image" src="https://github.com/user-attachments/assets/63f5ec2b-dc9e-4101-8c3d-773a283d3f97" />
+
+<img width="1456" height="712" alt="image" src="https://github.com/user-attachments/assets/ce811e19-0a31-4a5c-b79f-09a18715e70e" />
 
 # Result:
- Include your result here
+ Thus, the Data Visualization using seaborn python library for the given data executed successfully.
